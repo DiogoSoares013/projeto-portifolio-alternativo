@@ -47,7 +47,7 @@ li:hover{
     color: var(--cor2);
 }
 ul{
-    
+    text-align: center;
     list-style-position: inside;
     columns: 2;
     
